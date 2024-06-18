@@ -1,7 +1,7 @@
 package com.banbanmoomani.calculator;
 
 public class Adder {
-    public static void main(String[] args) {
-
+    public int add(int first, int second) {
+        return first + second;
     }
 }
