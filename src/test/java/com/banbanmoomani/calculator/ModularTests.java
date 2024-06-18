@@ -11,7 +11,7 @@ public class ModularTests {
 
         //given
         int first = 4;
-        int second =3;
+        int second = 3;
 
         //when
         int result = new Modular().mod(first, second);
@@ -26,7 +26,7 @@ public class ModularTests {
 
         //given
         int first = 13;
-        int second =8;
+        int second = 8;
 
         //when
         int result = new Modular().mod(first, second);
