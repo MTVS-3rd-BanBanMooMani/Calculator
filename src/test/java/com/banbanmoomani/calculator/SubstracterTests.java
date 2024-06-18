@@ -9,12 +9,12 @@ public class SubstracterTests {
     @Test
     @DisplayName("2 빼기 1한 결과가 1인지 확인")
 
-    public void testRemove() {
+    public void testMinus() {
 
         int first = 2 ;
         int second = 1;
 
-        int result = new Substracter() .remove(first ,second) ;
+        int result = new Substracter().minus(first ,second) ;
 
         Assertions.assertEquals ( 1,result  );
 
