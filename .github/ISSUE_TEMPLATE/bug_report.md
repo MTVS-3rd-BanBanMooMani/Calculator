@@ -7,32 +7,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 문제 제기
+- 어떠한 문제로 해당 기능을 추가해야 하는지 명확하고 간결하게 설명해주세요
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 기능 요약
+- 새롭게 추가하려는 기능에 대해 요약해서 작성해주세요
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 기능 설명
+- 개발해야 하는 상세 내용에 대해 설명해주세요
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 할일 목록
+- 해당 기능을 개발하기 위해 수행해야 할 하위 업무를 to-do-list 형식으로 작성해주세요 ( 단축키 - [ ] )
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## 비고
+- 여기에 해당 기능에 대한 스크린 샷이나 상세 설명, 레퍼런스 등을 작성해주세요
