@@ -5,10 +5,9 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class AdderTests {
-
     @Test
     @DisplayName("1과 2를 더한 결과가 3인지 확인")
-    public void testAdd1() {
+    public void testAdd() {
         // given
         int first = 1;
         int second = 2;
@@ -17,7 +16,7 @@ public class AdderTests {
         int result = new Adder().add(first, second);
 
         // then(verify)
-        Assertions.assertEquals(3, result); // 3이라는 값을 기대하고 있는데 확인해줘
+        Assertions.assertEquals(3, result);
     }
 
     @Test
@@ -30,7 +29,7 @@ public class AdderTests {
         // when
         int result = new Adder().add(first, second);
 
-        // then(verify)
-        Assertions.assertEquals(5, result); // 3이라는 값을 기대하고 있는데 확인해줘
+        // then
+        Assertions.assertEquals(5, result);
     }
 }
